@@ -39,7 +39,7 @@ Usage
 =====
 Download the Script:
 
-  curl -O https://raw.githubusercontent.com/RaffaeleV/installPSQL16/main/installPSQLv15.sh 
+  curl -O https://raw.githubusercontent.com/RaffaeleV/installPSQLv15/refs/heads/main/installPSQLv15.sh 
 
 Make it executable:
 
